@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\Kris\source\repos\grocery1\grocery1\Stock.h(202,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kris\source\repos\grocery1\grocery1\Stock.h(207,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  grocery1.vcxproj -> C:\Users\Kris\source\repos\grocery1\x64\Debug\grocery1.exe

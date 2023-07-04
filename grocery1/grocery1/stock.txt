@@ -1,0 +1,19 @@
+6
+Q
+  BakedBeans
+100 1.99
+W
+  Apples
+5.2  0.99
+Q
+  CannedSoup
+50 0.79
+W
+  Bananas
+12.8  0.49
+Q
+  Onion
+100 1.4
+Q
+  grapes
+56 0.3
